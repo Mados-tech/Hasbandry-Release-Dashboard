@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hasbandry-FrontEnd/static/css/main.3c2b2548.css",
+    "main.js": "/Hasbandry-FrontEnd/static/js/main.fa875da2.js",
+    "static/media/welcome_icon.png": "/Hasbandry-FrontEnd/static/media/welcome_icon.910eb7aa25dde9cfe419.png",
+    "index.html": "/Hasbandry-FrontEnd/index.html",
+    "main.3c2b2548.css.map": "/Hasbandry-FrontEnd/static/css/main.3c2b2548.css.map",
+    "main.fa875da2.js.map": "/Hasbandry-FrontEnd/static/js/main.fa875da2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c2b2548.css",
+    "static/js/main.fa875da2.js"
+  ]
+}
